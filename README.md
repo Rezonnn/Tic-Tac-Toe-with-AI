@@ -2,7 +2,7 @@
 
 A clean, self-contained **C++ console mini-game** where you play Tic-Tac-Toe against a simple **AI powered by minimax**.
 
-This project is great for showcasing:
+My Project showcases:
 
 - C++17
 - Basic **game logic**
@@ -86,14 +86,3 @@ cpp_tictactoe_ai/
 ├─ CMakeLists.txt  # CMake build file
 └─ README.md       # Project documentation (this file)
 ```
-
----
-
-## 💡 Ideas to Extend
-
-If you want to evolve this later:
-
-- Add score tracking across rounds
-- Add difficulty levels (random moves vs minimax)
-- Add a 4x4 or 5x5 mode
-- Port it to a GUI framework (SFML, SDL, Qt, etc.) for a graphical version
